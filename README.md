@@ -2,15 +2,14 @@
 
 A Game Programmer + Game Developer looking to make my mark in the industry.
 
-- 🔭 I’m currently working on an arcade racer in Unity! (Learn more on my Twitter)
+- 🔭 I’m currently working on an arcade racer in Unity! (Learn more on my [Twitter](https://twitter.com/ASGDTweet), posting daily!)
 - 🌱 I'm currently developing / learning about the [GameBoy Development Kit](https://gbdk-2020.github.io/gbdk-2020/docs/api/index.html)
 - 🤔 I’m looking for help with learning Unreal Engine 4
 - 💬 Talk to me about anything new / interesting in the game dev industry!
 - 📫 How to reach me: [E-Mail](7319aserna@gmail.com), [LinkedIn](https://www.linkedin.com/in/alexisserna/) or [Twitter](https://twitter.com/ASGDTweet)
+- 💖 Pronouns: he / him
 - 🎮 Plays: Action Adventure, First Person Shooters, Platformers
   - Currently Playing: [Yakuza 0](https://yakuza.sega.com/yakuza0/home.html)
-- 💖 Pronouns: he / him
-
 <!--
 **ASGitH/ASGitH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
