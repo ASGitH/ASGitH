@@ -8,7 +8,7 @@ A Game Programmer + Game Developer looking to make my mark in the industry.
 - 💬 Talk to me about anything new / interesting in the game dev industry!
 - 📫 How to reach me: [E-Mail](7319aserna@gmail.com), [LinkedIn](https://www.linkedin.com/in/alexisserna/) or [Twitter](https://twitter.com/ASGDTweet)
 - 💖 Pronouns: he / him
-- ⚡ Fun fact: I have created a [Website](ASGitH.github.io) where you can get a more in-depth look at projects I create!
+- ⚡ Fun fact: I have created a [Website](https://asgith.github.io/) where you can get a more in-depth look at projects I create!
 - 🎮 Plays: Action Adventure, First Person Shooters, Platformers
   - Currently Playing: [Yakuza 0](https://yakuza.sega.com/yakuza0/home.html)
 <!--
