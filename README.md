@@ -2,7 +2,7 @@
 
 A Game Programmer + Game Developer looking to make my mark in the industry.
 
-- 🔭 I’m currently working on an arcade racer in Unity! (Learn more on my [Twitter](https://twitter.com/ASGDTweet), posting daily!)
+- 🔭 I’m currently working on a Game Boy game for Ludum Dare 48! (Learn more on my [Twitter](https://twitter.com/ASGDTweet), posting daily!)
 - 🌱 I'm currently developing / learning about the [GameBoy Development Kit](https://gbdk-2020.github.io/gbdk-2020/docs/api/index.html)
 - 🤔 I’m looking for help with learning Unreal Engine 4
 - 💬 Talk to me about anything new / interesting in the game dev industry!
